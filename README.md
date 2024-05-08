@@ -1,1 +1,0 @@
-# We're hunting any kryptic thing we can find
